@@ -1,0 +1,4 @@
+*.editorconfig
+*.env
+*/bin
+*/node_modules
